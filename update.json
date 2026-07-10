@@ -1,8 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.1.6",
-  "apkUrl": "https://github.com/amralimokhtar-creator/Muhasabati-Releases/releases/download/Muhasabati-v1.1.6/Muhasabati-v1.1.6.apk",
-  "releaseNotes": "1- تم تحسين توافق الألوان في جيمع واجهات التطبيق لتناسب اوضاع التطبيق الأربعة
-2- تعم اضافة ميزة التعديل على الأوسمة المكتملة يمكنك الآن اختيار اي وسام لحذفه
-3- تم حل العديد من المشاكل"
+  "versionCode": 9,
+  "versionName": "1.1.7",
+  "apkUrl": "https://github.com/amralimokhtar-creator/Muhasabati-Releases/releases/download/Muhasabati-v1.1.7/Muhasabati-v1.1.7.apk",
+  "releaseNotes": "- تم تحسين ومعالجة الأخطاء الخاصة باحتساب نقاط السبحة في كارت المقامات"
 }
